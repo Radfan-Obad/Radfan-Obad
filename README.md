@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Radfan-Obad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Master
+- 💞️ I’m looking to collaborate on IT
+- 📫 How to reach me:
+     email:radfan.a.kareem@gmail.com
+     WhatsApp:00967-735-244-071
+
 
 <!---
 Radfan-Obad/Radfan-Obad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
