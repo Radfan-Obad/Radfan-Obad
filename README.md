@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Master
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me:
-     email:radfan.a.kareem@gmail.com
-     WhatsApp:00967-735-244-071
+     email: radfan.a.kareem@gmail.com
+     WhatsApp: 00967-735-244-071
 
 
 <!---
